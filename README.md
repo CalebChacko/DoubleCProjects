@@ -10,7 +10,7 @@ The collected change stays in your can during the day. The more you collect the 
 
 If you collect enough change you stay, if not...SOLD!
 
-![]
+![https://github.com/CalebChacko/DoubleCProjects/blob/master/CAN_Project_1.PNG](Gameplay)
 
 #### Team 
 
